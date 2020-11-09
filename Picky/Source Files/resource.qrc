@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>images/Add.png</file>
+        <file>images/add-click.png</file>
+        <file>images/Delete.png</file>
+        <file>images/delete-click.png</file>
+        <file>images/pick.png</file>
+        <file>images/pick-click.png</file>
+        <file>images/picky_icon.ico</file>
+    </qresource>
+</RCC>
