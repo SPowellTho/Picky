@@ -3,7 +3,7 @@ The Decision Maker
 
 #WHY
 
-This is another program I made to practice the QT Framework. Being familiar with C++ and already having practice with QT, this was a simple project. I choose to create a program for that made a decision for the user because my mother and I are always stuck on the question, "What should we eat for dinner".
+This is another program I made to practice the QT Framework. Being familiar with C++ and already having practice with QT, this was a simple project. I choose to create a program that made a decision for the user because my mother and I are always stuck on the question, "What should we eat for dinner".
 
 #WHAT
 
