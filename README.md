@@ -9,7 +9,7 @@ This is another program I made to practice the QT Framework. Being familiar with
 
 This repository contains all the files that was used to create the program, they are located in the aptly named "Source File" folder. In the "Executable" folder you will find the program itself, feel free to use it.
 
-You use the program by entering all the options you wish to choose from by using the "Add" button. Once you have all the possible options you want, push the "Pick!" button and the program will choose one of the option for you!
+You use the program by entering all the options you wish to choose from by using the "Add" button. Once you have all the possible options you want, push the "Pick!" button and the program will choose one of the options for you!
 
 I'll be using this to choose dinner, but you can use it for other things too!
 
