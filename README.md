@@ -16,6 +16,8 @@ I'll be using this to choose dinner, but you can use it for other things too!
 #HOW
 
 QT Creator was used to make and compile this program.
+For help with compiling the project, I recommend reading the documentation: https://doc.qt.io/qt-5/windows-deployment.html
+And watching this video: https://www.youtube.com/watch?v=8qozxqSZQEg&list=FLLnUzTowAxUyMciRL8oVPAg&index=64&t=111s
 
 Thank you for reading,
 
